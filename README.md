@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff9f&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Leonardo+Gasperin;Tenho+31+anos;Resido+em+Foz+do+Iguaçu-PR,+Brasil;Área;Analise+e+Desenvolvimento+de+Sistemas.;certificado+em;Engenheiro+de+Software+Full+Stack+Jr,;pelo+DevInHouse[EDP];SESI/SENAI;e+futuramente+pela+Universidade;Claretiano;Tabalho+como+Engenheiro+.Net+Jr;na+plataforma+web+Programador{TV};:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Leonardo+Gasperin;I+am+31+years+old;I+live+in+Foz+do+Iguaçu-PR,+Brazil;Area;Analysis+and+Systems+Development.;certified+in;Junior+Full+Stack+Software+Engineer,;by+DevInHouse[EDP];SESI/SENAI;and+in+the+future+by;Claretiano+University;I+work+as+a+Jr+.Net+Engineer;on+the+web+platform+Programador{TV};=^.~=)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcbc00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Leonardo+Gasperin;I+am+31+years+old;I+live+in+Foz+do+Iguaçu-PR,+Brazil;Area;Analysis+and+Systems+Development.;certified+in;Junior+Full+Stack+Software+Engineer,;by+DevInHouse[EDP];SESI/SENAI;and+in+the+future+by;Claretiano+University;I+work+as+a+Jr+.Net+Engineer;on+the+web+platform+Programador{TV};=^.~=)](https://git.io/typing-svg)
 
 
 <div style="display: inline_block"><br>
