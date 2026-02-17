@@ -32,10 +32,4 @@
 </div>
 
 ##
- 
-<div align="center">
-  <a href="https://github.com/leonardoGasperin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoGasperin&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoGasperin&layout=compact&langs_count=9&theme=chartreuse-dark"/>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
